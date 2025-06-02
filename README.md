@@ -266,10 +266,9 @@ Open issues for bugs, or propose new features.
 
 ## 💡 Need Help?
 
-- Read the tutorial  
-- Open an issue  
-- Start a discussion  
-- Email: `abhilash@infyways.com`
+- [Read the tutorial](https://www.infyways.com/build-your-first-mcp-server-with-typescript/)
+- [Open an issue](https://github.com/abhilashsahoo/mcp-typescript/issues)
+- [Email: abhilash@infyways.com](mailto:abhilash@infyways.com)
 
 ---
 
